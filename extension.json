@@ -1,0 +1,22 @@
+{
+  "id": "shin_janryumon",
+  "version": "1.0.0",
+  "name": "Shin Janryumon OST",
+  "author": "AzuriDayo",
+  "description": "Replaces game audio with Shin Janryumon OSTs",
+  "dir": "assets",
+  "dependencies": {},
+  "entry": "script.js",
+  "resourcepack": [
+    "audio/bg/game1.mp3",
+    "audio/bg/game2.mp3",
+    "audio/bg/game3.mp3",
+    "audio/bg/game4.mp3",
+    "audio/bg/game5.mp3",
+    "audio/bg/game6.mp3",
+    "audio/bg/game7.mp3",
+    "audio/bg/game8.mp3",
+    "audio/bg/lobby.mp3",
+    "audio/bg/riichi.mp3"
+  ]
+}
